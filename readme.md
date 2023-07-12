@@ -3,3 +3,7 @@ To run the above code:
 2. Locate the directory and run 'npm install'
 3. Then in the terminal run 'npm run start'
 4. Go to http://localhost:8080/
+# Sample
+<h1 align="center">
+  <img src="" alt="sample" />
+</h1>
