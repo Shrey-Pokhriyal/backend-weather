@@ -5,5 +5,5 @@ To run the above code:
 4. Go to http://localhost:8080/
 # Sample
 <h1 align="center">
-  <img src="" alt="sample" />
+  <img src="https://github.com/Shrey-Pokhriyal/backend-weather/blob/main/sample.PNG" alt="sample" />
 </h1>
